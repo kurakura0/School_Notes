@@ -23,7 +23,7 @@ Expectations for the essays:
 		6. <u>Main</u> point
 	- One conclusion
 
-Don't define fracking, everybody knows what fracking is already. Instead, show the audience interesting bits about fracking. 
+Don't define fracking, everybody knows what fracking is already. Instead, show the audience interesting bits about fracking. Don't dumb it down.
 
 Point1 is the least important point, and this is where you begin your argument. Point2 is the second most important point. Quotations, modes, punctuation, etc. all need to be there. 
 
@@ -40,11 +40,11 @@ This is a strategy for topic sentences. A paragraph is a mini essay, and a topic
 
 If you write a paragraph, it should be about one thing. Paragraphs need to be about a single thing and once you are finished with that singular thing, you move on to a new paragraph. 
 
-To start a new paragraph, you need something that latches on to the last paragraph, ie. "Although cats are cool, dogs are better" 
+To start a new paragraph, you need something that latches on to the last paragraph, ie. "Although cats are cool, dogs are better".
 
 The strategy here is to hook on to the last paragraph and look forward to what will be talked about in the paragraph that the topic sentence is in. The transition moment is to be in the topic sentence. If you talk about one thing in a paragraph, it better be about one thing, not with a transition at the end of it talking about something else. By definition, a topic sentence is a transitional sentence. A topic sentence belongs in every body paragraph, not in the intro or conclusion. Basically, every body paragraph that includes a point needs to employ the hook and look technique. Every body paragraph needs a transitory sentence, in the form of a topic sentence. 
 
-<u>Repetend</u>
+<u>Repetend</u> (noun)
 You need to grab your reader's attention in the introduction. When writing an essay about pets, you don't talk about pets first. You would introduce it with talking about connection in friends, family, community, and finally religion. Then you can talk about religions like taoism, where they believe that gods are found in everything. Hugging a tree would be a significant moment where others would not find it. 
 
 You grab reader's attention through context. Context shines light on smaller moments from larger points. For fracking, it's all about power. So, for context, you can talk about how power is a human struggle as old as we are. 

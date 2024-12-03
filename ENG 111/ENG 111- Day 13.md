@@ -37,6 +37,14 @@ Robust- Strong and healthy- vigorous
 - Presentation because improper presentation clouds up the way that your audience perceives your writing.
 - Rhetorical devices because with a variety of devices, they allow you to influence your presentation.
 - Signal Phrases because they introduce quotations.
+- Mode sandwiches because they allow for simplicity in introducing and explaining modes.
+- Complex serial lists because they allow combining multiple complex ideas into one list. 
+- The 'hook and look' technique because it properly connects body paragraphs through their topic sentences by connecting back to the last paragraph and then looking forward into what will be discussed in the current one.
+- Modes because they introduce variety into your writing instead of just words.
+- Punctuation (whole) because it separates independent ideas from one another, but can also bring ideas together. 
+- Typeface because a legible font is important for readability.
+- Repetend because it is a powerful technique for continuity between the ideas of your essay.
+- Counterargument because it shows that you listen to other voices, establishing your credibility as a writer.
 
 <u>Other Notes</u>
 The essay must include context. Context is important because it provides information for your reader. Another word for context is conversation. You must start broad in your writing, and then narrow it down, talking about rhetoric and language, and then introducing your thesis in the introduction to your essay.
