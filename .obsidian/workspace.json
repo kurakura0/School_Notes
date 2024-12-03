@@ -39,14 +39,10 @@
             "id": "4061d32c94df4602",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ],
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -141,12 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -167,11 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -197,6 +189,7 @@
   "lastOpenFiles": [
     "Untitled.md",
     "ENG 111/ENG 111- Day 17.md",
+    "ENG 111/ENG 111- Day 9.md",
     "ENG 111/ENG 111- Day 14.md",
     "ENG 111/ENG 111- Day 15.md",
     "ENG 111/ENG 111- Day 16.md",
@@ -217,7 +210,6 @@
     "ENG 111/ENG 111- Day 13.md",
     "ENG 111/ENG 111- Day 7.md",
     "ENG 111/ENG 111- Day 8.md",
-    "ENG 111/ENG 111- Day 9.md",
     "ENG 111/ENG 111- Day 10.md",
     "ENG 111/ENG 111- Day 12.md",
     "ENG 111/ENG 111- Day 11.md",
