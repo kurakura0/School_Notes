@@ -1,6 +1,7 @@
 {
   "accentColor": "#b069bf",
   "cssTheme": "Minimal",
-  "textFontFamily": "Hack Nerd Font",
-  "translucency": true
+  "textFontFamily": "Hack Nerd Font Mono",
+  "translucency": true,
+  "baseFontSize": 17
 }

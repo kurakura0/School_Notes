@@ -19,7 +19,7 @@ Expectations for the essays:
 			- Introduces your opinion on the subject matter
 		3. Point2
 		4. Counter argument
-		5. <u>Main</u> point
+		5. <u>Main</u> point or another paragraph on counterargument
 		6. <u>Main</u> point
 	- One conclusion
 
