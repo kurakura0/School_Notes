@@ -1,2 +1,1 @@
-School notes
-Enough said
+School notes, enough said
